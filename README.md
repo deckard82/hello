@@ -1,0 +1,1 @@
+Little welcome script. First project.
